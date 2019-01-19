@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/document/Project/apic/01_eureka_server/01_eureka_server.iml" filepath="D:/document/Project/apic/01_eureka_server/01_eureka_server.iml" />
+      <module fileurl="file://D:/document/Project/apic/02_eureka_client/02_eureka_client.iml" filepath="D:/document/Project/apic/02_eureka_client/02_eureka_client.iml" />
+      <module fileurl="file://D:/document/Project/apic/03_eureka_consumer/03_eureka_consumer.iml" filepath="D:/document/Project/apic/03_eureka_consumer/03_eureka_consumer.iml" />
+      <module fileurl="file://D:/document/Project/apic/04_config_server/04_config_server.iml" filepath="D:/document/Project/apic/04_config_server/04_config_server.iml" />
+      <module fileurl="file://D:/document/Project/apic/05_config_client/05_config_client.iml" filepath="D:/document/Project/apic/05_config_client/05_config_client.iml" />
+      <module fileurl="file://D:/document/Project/apic/06_eureka_cluster_server/06_eureka_cluster_server.iml" filepath="D:/document/Project/apic/06_eureka_cluster_server/06_eureka_cluster_server.iml" />
+      <module fileurl="file://D:/document/Project/apic/07_eureka_protection/07_eureka_protection.iml" filepath="D:/document/Project/apic/07_eureka_protection/07_eureka_protection.iml" />
+      <module fileurl="file://D:/document/Project/apic/08_zuul/08_zuul.iml" filepath="D:/document/Project/apic/08_zuul/08_zuul.iml" />
+      <module fileurl="file://D:/document/Project/apic/09_eureka_produce/09_eureka_produce.iml" filepath="D:/document/Project/apic/09_eureka_produce/09_eureka_produce.iml" />
+      <module fileurl="file://D:/document/Project/apic/10_Ribbon/10_Ribbon.iml" filepath="D:/document/Project/apic/10_Ribbon/10_Ribbon.iml" />
+      <module fileurl="file://D:/document/Project/apic/11_springboot_swagger/11_springboot_swagger.iml" filepath="D:/document/Project/apic/11_springboot_swagger/11_springboot_swagger.iml" />
+      <module fileurl="file://D:/document/Project/apic/12_hystrix/12_hystrix.iml" filepath="D:/document/Project/apic/12_hystrix/12_hystrix.iml" />
+      <module fileurl="file://D:/document/Project/apic/13_amqp/13_amqp.iml" filepath="D:/document/Project/apic/13_amqp/13_amqp.iml" />
+      <module fileurl="file://D:/document/Project/apic/14_bus_amqp/14_bus_amqp (2).iml" filepath="D:/document/Project/apic/14_bus_amqp/14_bus_amqp (2).iml" />
+      <module fileurl="file://D:/document/Project/apic/15_bus_amqp_bak/15_bus_amqp_bak.iml" filepath="D:/document/Project/apic/15_bus_amqp_bak/15_bus_amqp_bak.iml" />
+      <module fileurl="file://D:/document/Project/apic/16_stream_producer/16_stream_producer.iml" filepath="D:/document/Project/apic/16_stream_producer/16_stream_producer.iml" />
+      <module fileurl="file://D:/document/Project/apic/17_stream_recever/17_stream_recever.iml" filepath="D:/document/Project/apic/17_stream_recever/17_stream_recever.iml" />
+      <module fileurl="file://D:/document/Project/apic/18_stream_producer_group_partition/18_stream_producer_group_partition.iml" filepath="D:/document/Project/apic/18_stream_producer_group_partition/18_stream_producer_group_partition.iml" />
+      <module fileurl="file://D:/document/Project/apic/19_stream_recever_group_partition/19_stream_recever_group_partition.iml" filepath="D:/document/Project/apic/19_stream_recever_group_partition/19_stream_recever_group_partition.iml" />
+      <module fileurl="file://D:/document/Project/apic/20_stream_recever_group_partition/20_stream_recever_group_partition.iml" filepath="D:/document/Project/apic/20_stream_recever_group_partition/20_stream_recever_group_partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_livedata/aaaa.iml" filepath="$PROJECT_DIR$/apic_livedata/aaaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic.iml" filepath="$PROJECT_DIR$/apic.iml" />
+      <module fileurl="file://D:/document/Project/apic/apic.iml" filepath="D:/document/Project/apic/apic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_bridge/apic_bridge.iml" filepath="$PROJECT_DIR$/apic_bridge/apic_bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_eureka/apic_eureka.iml" filepath="$PROJECT_DIR$/apic_eureka/apic_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_getway/apic_getway.iml" filepath="$PROJECT_DIR$/apic_getway/apic_getway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_livedata/apic_livedata.iml" filepath="$PROJECT_DIR$/apic_livedata/apic_livedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_market/apic_market.iml" filepath="$PROJECT_DIR$/apic_market/apic_market.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_getway/getway_portal/getway_portal.iml" filepath="$PROJECT_DIR$/apic_getway/getway_portal/getway_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_livedata/livedata_portal/livedata_portal.iml" filepath="$PROJECT_DIR$/apic_livedata/livedata_portal/livedata_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apic_market/market_portal/market_portal.iml" filepath="$PROJECT_DIR$/apic_market/market_portal/market_portal.iml" />
+    </modules>
+  </component>
+</project>

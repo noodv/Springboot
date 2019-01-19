@@ -1,0 +1,40 @@
+eureka:
+  client:
+    #需要将自已检索并注册到eureka上，所以以下两配置设为true
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      #注册中心的地址
+      defaultZone: http://localhost:8100/eureka/
+
+server:
+      #当前服务端口号
+      #直接访问 http://localhost:8004/test-config.properties查看配置文件信息
+  port: 8004
+
+spring:
+  application:
+      #当前应用名称
+    name: service-04
+    # 消息总线用
+  rabbitmq:
+      host: localhost
+      port: 5672
+      username: guest
+      password: guest
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/noodv/temp.git
+          # http://localhost:8004/service-05-sit.properties
+          search-paths: config
+          username: 13437058585
+          password: noodv@sina.com19
+        label: master
+# 消息总线用
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

@@ -1,0 +1,18 @@
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:8100/eureka/
+
+server:
+  port: 8013
+
+spring:
+  application:
+    name: service-13
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest

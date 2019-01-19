@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/03_eureka_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_eureka_consumer/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_config_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_feign_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_config_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_eureka_cluster_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_eureka_protection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09_eureka_produce" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_Ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_springboot_swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12_hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13_amqp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13_amqp/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14_bus_amqp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15_bus_amqp_bak" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16_stream_producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17_stream_recever" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18_stream_producer_group_partition" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/19_stream_recever_group_partition" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/20_stream_recever_group_partition" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apic_bridge" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apic_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apic_getway/getway_portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apic_livedata" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apic_livedata/livedata_portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apic_market/market_portal" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

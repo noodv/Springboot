@@ -1,0 +1,17 @@
+eureka:
+  client:
+    #��Ҫ�����Ѽ�����ע�ᵽeureka�ϣ�����������������Ϊtrue
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      #ע�����ĵĵ�ַ
+      defaultZone: http://localhost:8888/eureka/
+
+server:
+  #��ǰ����˿ں�
+  port: 8763
+
+spring:
+  application:
+    #��ǰӦ������
+    name: service-3

@@ -1,0 +1,30 @@
+eureka:
+  client:
+    #需要将自已检索并注册到eureka上，所以以下两配置设为true
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      #注册中心的地址
+      defaultZone: http://localhost:8100/eureka/
+
+server:
+  #当前服务端口号
+  port: 8020
+
+spring:
+  application:
+    #当前应用名称
+    name: service-20
+  cloud:
+    stream:
+      bindings:
+        input:
+          group: service-a
+          destination: my-test-channel
+      instance-count: 2
+      instance-index: 0
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest

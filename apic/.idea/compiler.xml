@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01_eureka_server" />
+        <module name="02_eureka_client" />
+        <module name="02_eureka_client (1)" />
+        <module name="04_a_feign_consumer" />
+        <module name="13_amqp (1)" />
+        <module name="13_bus_amqp" />
+        <module name="16_stream" />
+        <module name="apic_bridge" />
+        <module name="apic_eureka" />
+        <module name="apic_getway" />
+        <module name="apic_market" />
+        <module name="code" />
+        <module name="demo" />
+        <module name="getway_portal" />
+        <module name="getway_portal (1)" />
+        <module name="livedata" />
+        <module name="livedata_portal" />
+        <module name="market_portal" />
+        <module name="springboot-mybatis-annotation" />
+        <module name="springboot-mybatis-annotation (1)" />
+      </profile>
+      <profile name="Annotation profile for 14_bus_amqp (2)" enabled="true">
+        <sourceOutputDir name="../../code/14_bus_amqp/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../code/14_bus_amqp/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="14_bus_amqp (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apic" target="1.5" />
+      <module name="apic_bridge" target="1.8" />
+      <module name="apic_eureka" target="1.8" />
+      <module name="apic_getway" target="1.5" />
+      <module name="apic_livedata" target="1.5" />
+      <module name="apic_market" target="1.5" />
+      <module name="getway_portal" target="1.6" />
+      <module name="livedata_portal" target="1.6" />
+      <module name="market_portal" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
